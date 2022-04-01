@@ -1,0 +1,140 @@
+body{
+	font-family: sans-serif;
+}
+.home-text{
+	color: green;
+}
+
+.top-nav a.active{
+	color:blue!important;
+}
+
+.auth-form{
+	background: rgba(255, 255, 255, 0.381);
+	border-radius: 20px;
+	padding:20px 50px 50px  50px;
+	margin-top: 50px;
+}
+.abc{
+	background-color: rgba(255, 255, 255, 0.882);
+}
+.abcd{
+	margin-top: 30px;
+	height: 120%;
+	border-radius: 20px;
+	background-color: #6ac9fc45;
+}
+
+.auth-formm{
+	background: rgba(255, 255, 255, 0.31);
+	border-radius: 20px;
+	padding:20px 50px 50px  50px;
+	margin-top: 1px;
+}
+.fancybox-delete-button {
+	padding: 8px 60px 12px 10px!important;
+	background: red!important;
+  }
+
+
+.form-title{
+	color: rgb(51, 109, 234);
+	font-size: 20px;
+	font-weight: 600;
+	font-family: arial;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.form-group label{
+	color: #0ba6fa;
+}
+.form-check label{
+	color: #0ba6fa;
+}
+label.invalid{
+	color: red;
+	font-size: 13px;
+}
+
+input.invalid{
+	border:1px solid red;
+}
+input.success{
+	border:1px solid green;
+}
+
+.profile-nav a{
+ text-decoration: none;
+}
+
+.profile-nav .active a{
+   color: white!important;
+}
+
+  label.error{
+	  color: red;
+  }
+  .box {
+	position: relative;
+	background: #ffffff;
+	width: 100%;
+  }
+  
+  .box-header {
+	color: #444;
+	display: block;
+	padding: 10px;
+	position: relative;
+	border-bottom: 1px solid #f4f4f4;
+	margin-bottom: 10px;
+  }
+  
+  .box-tools {
+	position: absolute;
+	right: 10px;
+	top: 5px;
+  }
+  
+  .dropzone-wrapper {
+	border: 2px dashed #91b0b3;
+	color: #92b0b3;
+	position: relative;
+	height: 150px;
+  }
+  
+  .dropzone-desc {
+	position: absolute;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+	width: 40%;
+	top: 50px;
+	font-size: 16px;
+  }
+  
+  .dropzone,
+  .dropzone:focus {
+	position: absolute;
+	outline: none !important;
+	width: 100%;
+	height: 150px;
+	cursor: pointer;
+	opacity: 0;
+  }
+  
+  .dropzone-wrapper:hover,
+  .dropzone-wrapper.dragover {
+	background: #ecf0f5;
+  }
+  
+  .preview-zone {
+	text-align: center;
+  }
+.preview-zone .box {
+	box-shadow: none;
+	border-radius: 0;
+	margin-bottom: 0;
+  }
+  
